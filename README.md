@@ -1,1 +1,1 @@
-Run the project here: daniellendvai.github.io/calculator 
+Run the project here: https://daniellendvai.github.io/calculator 
